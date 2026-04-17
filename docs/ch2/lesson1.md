@@ -1,4 +1,4 @@
-# Intro to AI
+# Intro to Artificial Intelligence
 
 Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence. Think of AI as software that can learn patterns from examples and make decisions or predictions based on what it has learned.
 

@@ -1,4 +1,4 @@
-# Intro to GeoAI
+# Intro to Geospatial AI
 
 GeoAI is the combination of AI, geospatial science, and data analysis. This field applies machine learning and deep learning techniques to location-based data, allowing us to extract insights from satellite imagery, aerial photographs, GPS data, and other spatial information.
 

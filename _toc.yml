@@ -9,12 +9,12 @@ parts:
   - file: docs/ch1/lesson3
   - file: docs/ch1/lesson4
 
-- caption: 2. GeoAI
+- caption: 2. Geospatial AI
   chapters:
   - file: docs/ch2/lesson1
   - file: docs/ch2/lesson2
 
-- caption: 3. Detection
+- caption: 3. Object Detection
   chapters:
   - file: docs/ch3/lesson1
   - file: docs/ch3/lesson2
