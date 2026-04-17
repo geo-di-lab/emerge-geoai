@@ -1,0 +1,26 @@
+format: jb-book
+root: intro
+parts:
+
+- caption: 1. Intro
+  chapters:
+  - file: docs/ch1/lesson1
+  - file: docs/ch1/lesson2
+  - file: docs/ch1/lesson3
+  - file: docs/ch1/lesson4
+
+- caption: 2. GeoAI
+  chapters:
+  - file: docs/ch2/lesson1
+  - file: docs/ch2/lesson2
+
+- caption: 3. Detection
+  chapters:
+  - file: docs/ch3/lesson1
+  - file: docs/ch3/lesson2
+
+- caption: 4. Vision-Language
+  chapters:
+  - file: docs/ch4/lesson1
+  - file: docs/ch4/lesson2
+  - file: docs/ch4/lesson3
