@@ -16,7 +16,7 @@ There are two main categories of AI that you'll encounter:
 
 ---
 
-## Analytical AI: Understanding the World Through Data
+## Understanding the World Through Data
 
 Analytical AI is particularly valuable for participatory science (also called citizen science) because it helps volunteers and researchers process and understand large amounts of data collected from the real world.
 
